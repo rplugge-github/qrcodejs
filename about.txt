@@ -1,0 +1,8 @@
+https://github.com/davidshimjs/qrcodejs
+
+
+https://www.geeksforgeeks.org/how-to-make-a-qr-code-generator-using-qrcode-js/
+
+
+edit by codesandbox
+linked to github
